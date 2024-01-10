@@ -1,0 +1,22 @@
+.reservation-form-container{
+    padding: 30px;
+    background: #f8f9fa;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+.reservation-form-row{
+    margin-bottom: 20px;
+}
+
+.reservation-form-approval-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.reservation-form-approval-col{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    gap: 8px;
+}
